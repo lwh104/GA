@@ -2,11 +2,12 @@
 
 遗传算法作业，ACKLEY函数如下：
 
-![formula.png](formula.png)
+![formula](https://user-images.githubusercontent.com/56112804/140487551-37659e85-5605-4c69-a6d3-ea2d5e9448af.png)
+
 
 为了便于在三维中显示，自变量设置为2维，该函数图像为：
 
-![ackley.png](ackley.png)
+![ackley](https://user-images.githubusercontent.com/56112804/140487498-4403b1ac-26b5-4a1f-bb3e-bda8e06a3b5c.png)
 
 ## GA_self_work.py：自主实现的遗传算法
 
