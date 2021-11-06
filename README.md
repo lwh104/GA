@@ -13,7 +13,7 @@
 
 ![迭代](https://user-images.githubusercontent.com/56112804/140482499-64780bb4-802c-4761-94e2-2e2f5f87bb70.gif)
 
-![Figure_1_label](https://user-images.githubusercontent.com/56112804/140482477-66f34a60-a305-42d9-b818-6077578b7b35.png)
+![Figure_11_6](https://user-images.githubusercontent.com/56112804/140602173-5a9aa930-7745-47b6-aa44-66bc3daeb909.png)
 
 ## GA_sko_opt.py：调用第三方工具包scikit-opt实现的GA算法
 
